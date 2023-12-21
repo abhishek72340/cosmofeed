@@ -1,6 +1,4 @@
 import { Navigate } from "react-router-dom";
-// import { Navbar } from "./index.js";
-
 const RequireAuth = ({ children }) => {
   const loginToken = localStorage.getItem("details");
 
