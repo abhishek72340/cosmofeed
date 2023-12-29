@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="header">
       <Navbar />
-      <img src="/assets/cosmofeed.png" alt="cosmofeed" />
+      <img src="https://pbs.twimg.com/profile_images/1648635693932122115/W12SFpGW_400x400.jpg" alt="cosmofeed" />
     </div>
   );
 };
